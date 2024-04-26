@@ -3247,7 +3247,7 @@
 		(descr "TSSOP, 28 Pin (JEDEC MO-153 Var AE https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "TSSOP SO")
 		(property "Reference" "U2"
-			(at 0 -5.8 270)
+			(at 0 -5.8 -90)
 			(layer "F.SilkS")
 			(uuid "48c8e6ec-e994-4042-a5d5-df03bdbf8528")
 			(effects
@@ -3258,7 +3258,7 @@
 			)
 		)
 		(property "Value" "PCM3060"
-			(at 0 5.8 270)
+			(at 0 5.8 -90)
 			(layer "F.Fab")
 			(uuid "a972ffcd-7d95-4f10-8f1f-02c98a32169b")
 			(effects
@@ -3492,7 +3492,7 @@
 			(uuid "4865ab25-6d67-468f-bc5d-8498313750d4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "e21c2a17-bb3b-44dc-b591-a570a4cd46f3")
 			(effects
